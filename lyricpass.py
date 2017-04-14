@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#This is an attempt to stop Unicode Encode errors
+
 import argparse
 from bs4 import BeautifulSoup
 import requests
